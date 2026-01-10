@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Divor and I'm a full stack developer</h2>
+[![Card](assets/card.png)](https://github.com/goddivor/)
+
 
 ###
 
@@ -89,18 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-</div>
-
-###
-
-<h2 align="left">Trophies</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=goddivor&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goddivor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://i.imgflip.com/9kbifn.jpg"  />
 </div>
 
 ###
